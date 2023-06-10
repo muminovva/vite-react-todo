@@ -27,7 +27,7 @@ function App() {
             type="submit"
             className="bg-red-600 text-white py-3 px-8 rounded-lg mb-8"
           >
-            Add Todo
+            Submit Your Name
           </button>
         </form>
         <div className="todo-show-area">
